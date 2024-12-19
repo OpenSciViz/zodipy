@@ -1,4 +1,13 @@
 
+# Fork of ZodiPy DEc 19, 2024 -- https://github.com/OpenSciViz/zodipy.git
+
+Imported forked repo directly from github into mybinder.org project.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSciViz/zodipy.git/HEAD)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/OpenSciViz/zodipy.git/HEAD
+
 <img src="docs/img/zodipy_logo.png" width="350">
 
 [![astropy](https://img.shields.io/badge/powered%20by-AstroPy-orange.svg)](http://www.astropy.org/)
