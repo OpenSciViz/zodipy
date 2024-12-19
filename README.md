@@ -1,5 +1,5 @@
 
-# Fork of ZodiPy DEc 19, 2024 -- https://github.com/OpenSciViz/zodipy.git
+# Fork of ZodiPy Dec 19, 2024 -- https://github.com/OpenSciViz/zodipy.git
 
 Imported forked repo directly from github into mybinder.org project.
 
