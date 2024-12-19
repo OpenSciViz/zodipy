@@ -3,7 +3,7 @@
 
 Imported forked repo directly from github into mybinder.org project.
 
-[![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/OpenSciViz/zodipy.git/HEAD)
+![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/OpenSciViz/zodipy.git/HEAD)
 
 https://mybinder.org/badge_logo.svg
 
